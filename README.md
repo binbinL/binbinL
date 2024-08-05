@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on XMU
+- 🌱 I’m currently learning bio-tech
+- 📫 How to reach me: 1542311773@qq.com
+
+  
 <!--
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binbinL)
--->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binbinL)
+-->
+
 
