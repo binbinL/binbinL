@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on XMU
-- 🌱 I’m currently learning bio-tech
+- 🌱 I’m currently learning Bio-tech
 - 📫 How to reach me: 1542311773@qq.com
 
   
